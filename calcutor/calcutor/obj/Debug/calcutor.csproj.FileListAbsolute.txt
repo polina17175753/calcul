@@ -1,0 +1,11 @@
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.csproj.AssemblyReference.cache
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.Form1.resources
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.Properties.Resources.resources
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.csproj.GenerateResource.cache
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.csproj.CoreCompileInputs.cache
+C:\Users\user33\source\repos\calcutor\calcutor\bin\Debug\calcutor.exe.config
+C:\Users\user33\source\repos\calcutor\calcutor\bin\Debug\calcutor.exe
+C:\Users\user33\source\repos\calcutor\calcutor\bin\Debug\calcutor.pdb
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.exe
+C:\Users\user33\source\repos\calcutor\calcutor\obj\Debug\calcutor.pdb
